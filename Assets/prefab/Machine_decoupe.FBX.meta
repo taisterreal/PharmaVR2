@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: fb1d2509ca5f0714c83c0253fa0176d9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Aiguille_compteur
+    100002: Aiguille_compteur001
+    100004: Aiguille_compteur002
+    100006: Aiguille_compteur003
+    100008: Aiguille_compteur004
+    100010: Bouton_arret
+    100012: Bouton_noire
+    100014: Bouton_Pressoire
+    100016: Bouton_Pressoire001
+    100018: Bouton_Pressoire002
+    100020: Bouton_Pressoire003
+    100022: Bouton_Pressoire004
+    100024: Bouton_Pressoire005
+    100026: Bouton_switch
+    100028: Bouton_tournant
+    100030: Box001
+    100032: Box002
+    100034: Box003
+    100036: Box004
+    100038: Box005
+    100040: Box006
+    100042: Box011
+    100044: Box012
+    100046: Box013
+    100048: Box014
+    100050: Box015
+    100052: Box016
+    100054: "Bo\xEEte001"
+    100056: "Bo\xEEte002"
+    100058: button1
+    100060: button4
+    100062: button5
+    100064: compteur
+    100066: compteur001
+    100068: compteur002
+    100070: compteur003
+    100072: compteur004
+    100074: Contoure_compteur
+    100076: Contoure_compteur001
+    100078: Contoure_compteur002
+    100080: Contoure_compteur003
+    100082: Contoure_compteur004
+    100084: Cool White
+    100086: Cool White001
+    100088: Cool White002
+    100090: Cool White003
+    100092: Cylinder001
+    100094: Cylinder002
+    100096: Cylinder003
+    100098: Cylinder004
+    100100: Cylinder005
+    100102: Cylinder006
+    100104: Cylinder007
+    100106: Cylindre001
+    100108: Cylindre002
+    100110: Cylindre003
+    100112: Cylindre004
+    100114: Cylindre005
+    100116: Cylindre006
+    100118: Glossy - Black
+    100120: Glossy - Black001
+    100122: Glossy - Black003
+    100124: Glossy - Black004
+    100126: Haut
+    100128: joystick
+    100130: //RootNode
+    100132: Objet001
+    100134: Pillier
+    100136: Poignet_bouton
+    100138: Poignet_bouton_socle
+    100140: Socle
+    100142: switch on off.FBX
+    100144: Tableau
+    100146: tableau_commande.fbx
+    100148: Tableau_potence
+    100150: Tube001
+    100152: Tube002
+    100154: Tube003
+    100156: Tube004
+    100158: Tube005
+    100160: Tube006
+    100162: Tube007
+    100164: Tube008
+    100166: vitre
+    400000: Aiguille_compteur
+    400002: Aiguille_compteur001
+    400004: Aiguille_compteur002
+    400006: Aiguille_compteur003
+    400008: Aiguille_compteur004
+    400010: Bouton_arret
+    400012: Bouton_noire
+    400014: Bouton_Pressoire
+    400016: Bouton_Pressoire001
+    400018: Bouton_Pressoire002
+    400020: Bouton_Pressoire003
+    400022: Bouton_Pressoire004
+    400024: Bouton_Pressoire005
+    400026: Bouton_switch
+    400028: Bouton_tournant
+    400030: Box001
+    400032: Box002
+    400034: Box003
+    400036: Box004
+    400038: Box005
+    400040: Box006
+    400042: Box011
+    400044: Box012
+    400046: Box013
+    400048: Box014
+    400050: Box015
+    400052: Box016
+    400054: "Bo\xEEte001"
+    400056: "Bo\xEEte002"
+    400058: button1
+    400060: button4
+    400062: button5
+    400064: compteur
+    400066: compteur001
+    400068: compteur002
+    400070: compteur003
+    400072: compteur004
+    400074: Contoure_compteur
+    400076: Contoure_compteur001
+    400078: Contoure_compteur002
+    400080: Contoure_compteur003
+    400082: Contoure_compteur004
+    400084: Cool White
+    400086: Cool White001
+    400088: Cool White002
+    400090: Cool White003
+    400092: Cylinder001
+    400094: Cylinder002
+    400096: Cylinder003
+    400098: Cylinder004
+    400100: Cylinder005
+    400102: Cylinder006
+    400104: Cylinder007
+    400106: Cylindre001
+    400108: Cylindre002
+    400110: Cylindre003
+    400112: Cylindre004
+    400114: Cylindre005
+    400116: Cylindre006
+    400118: Glossy - Black
+    400120: Glossy - Black001
+    400122: Glossy - Black003
+    400124: Glossy - Black004
+    400126: Haut
+    400128: joystick
+    400130: //RootNode
+    400132: Objet001
+    400134: Pillier
+    400136: Poignet_bouton
+    400138: Poignet_bouton_socle
+    400140: Socle
+    400142: switch on off.FBX
+    400144: Tableau
+    400146: tableau_commande.fbx
+    400148: Tableau_potence
+    400150: Tube001
+    400152: Tube002
+    400154: Tube003
+    400156: Tube004
+    400158: Tube005
+    400160: Tube006
+    400162: Tube007
+    400164: Tube008
+    400166: vitre
+    2100000: contoure gris
+    2100002: plastique vert
+    2100004: socle noir
+    2100006: socle noir2
+    2100008: plastique rouge
+    2100010: contoure gris 2
+    2100012: Inox
+    2100014: noir
+    2100016: button1
+    2100018: button4
+    2100020: Tableau
+    2100022: button5
+    2100024: joystick
+    2100026: Glossy - Black
+    2100028: Cool White
+    2100030: socle noir3
+    2100032: contoure gris 3
+    2100034: comptour
+    2100036: vitre
+    2100038: aiguille
+    2100040: No Name
+    2100042: 02 - Default
+    2100044: 'Bouton_chelou Slot #2'
+    2100046: plexi
+    2300000: Aiguille_compteur
+    2300002: Aiguille_compteur001
+    2300004: Aiguille_compteur002
+    2300006: Aiguille_compteur003
+    2300008: Aiguille_compteur004
+    2300010: Box001
+    2300012: Box002
+    2300014: Box003
+    2300016: Box004
+    2300018: Box005
+    2300020: Box006
+    2300022: Box011
+    2300024: Box012
+    2300026: Box013
+    2300028: Box014
+    2300030: Box015
+    2300032: Box016
+    2300034: "Bo\xEEte001"
+    2300036: "Bo\xEEte002"
+    2300038: button1
+    2300040: button4
+    2300042: button5
+    2300044: Contoure_compteur
+    2300046: Contoure_compteur001
+    2300048: Contoure_compteur002
+    2300050: Contoure_compteur003
+    2300052: Contoure_compteur004
+    2300054: Cool White
+    2300056: Cool White001
+    2300058: Cool White002
+    2300060: Cool White003
+    2300062: Cylinder001
+    2300064: Cylinder002
+    2300066: Cylinder003
+    2300068: Cylinder004
+    2300070: Cylinder005
+    2300072: Cylinder006
+    2300074: Cylinder007
+    2300076: Cylindre001
+    2300078: Cylindre002
+    2300080: Cylindre003
+    2300082: Cylindre004
+    2300084: Cylindre005
+    2300086: Cylindre006
+    2300088: Glossy - Black
+    2300090: Glossy - Black001
+    2300092: Glossy - Black003
+    2300094: Glossy - Black004
+    2300096: Haut
+    2300098: joystick
+    2300100: Objet001
+    2300102: Pillier
+    2300104: Poignet_bouton
+    2300106: Poignet_bouton_socle
+    2300108: Socle
+    2300110: Tableau
+    2300112: Tube001
+    2300114: Tube002
+    2300116: Tube003
+    2300118: Tube004
+    2300120: Tube005
+    2300122: Tube006
+    2300124: Tube007
+    2300126: Tube008
+    2300128: vitre
+    3300000: Aiguille_compteur
+    3300002: Aiguille_compteur001
+    3300004: Aiguille_compteur002
+    3300006: Aiguille_compteur003
+    3300008: Aiguille_compteur004
+    3300010: Box001
+    3300012: Box002
+    3300014: Box003
+    3300016: Box004
+    3300018: Box005
+    3300020: Box006
+    3300022: Box011
+    3300024: Box012
+    3300026: Box013
+    3300028: Box014
+    3300030: Box015
+    3300032: Box016
+    3300034: "Bo\xEEte001"
+    3300036: "Bo\xEEte002"
+    3300038: button1
+    3300040: button4
+    3300042: button5
+    3300044: Contoure_compteur
+    3300046: Contoure_compteur001
+    3300048: Contoure_compteur002
+    3300050: Contoure_compteur003
+    3300052: Contoure_compteur004
+    3300054: Cool White
+    3300056: Cool White001
+    3300058: Cool White002
+    3300060: Cool White003
+    3300062: Cylinder001
+    3300064: Cylinder002
+    3300066: Cylinder003
+    3300068: Cylinder004
+    3300070: Cylinder005
+    3300072: Cylinder006
+    3300074: Cylinder007
+    3300076: Cylindre001
+    3300078: Cylindre002
+    3300080: Cylindre003
+    3300082: Cylindre004
+    3300084: Cylindre005
+    3300086: Cylindre006
+    3300088: Glossy - Black
+    3300090: Glossy - Black001
+    3300092: Glossy - Black003
+    3300094: Glossy - Black004
+    3300096: Haut
+    3300098: joystick
+    3300100: Objet001
+    3300102: Pillier
+    3300104: Poignet_bouton
+    3300106: Poignet_bouton_socle
+    3300108: Socle
+    3300110: Tableau
+    3300112: Tube001
+    3300114: Tube002
+    3300116: Tube003
+    3300118: Tube004
+    3300120: Tube005
+    3300122: Tube006
+    3300124: Tube007
+    3300126: Tube008
+    3300128: vitre
+    4300000: Tube001
+    4300002: Cylinder001
+    4300004: Box001
+    4300006: Box002
+    4300008: Cylinder002
+    4300010: Tube002
+    4300012: Socle
+    4300014: Cylindre001
+    4300016: Pillier
+    4300018: button1
+    4300020: button4
+    4300022: Tableau
+    4300024: button5
+    4300026: joystick
+    4300028: Glossy - Black
+    4300030: Cool White
+    4300032: Cool White001
+    4300034: Glossy - Black001
+    4300036: Glossy - Black004
+    4300038: Cool White003
+    4300040: Box004
+    4300042: Box003
+    4300044: Cylinder003
+    4300046: Tube003
+    4300048: Box005
+    4300050: Box006
+    4300052: Box012
+    4300054: Cylinder004
+    4300056: Tube004
+    4300058: Box013
+    4300060: Cylinder005
+    4300062: Tube005
+    4300064: Box014
+    4300066: Cylinder006
+    4300068: Tube006
+    4300070: Contoure_compteur
+    4300072: Aiguille_compteur
+    4300074: Aiguille_compteur001
+    4300076: Contoure_compteur001
+    4300078: Cylindre002
+    4300080: Cylindre003
+    4300082: Cylindre004
+    4300084: Cylindre005
+    4300086: "Bo\xEEte001"
+    4300088: "Bo\xEEte002"
+    4300090: Aiguille_compteur002
+    4300092: Contoure_compteur002
+    4300094: Cylindre006
+    4300096: Tube008
+    4300098: Aiguille_compteur003
+    4300100: Contoure_compteur003
+    4300102: Aiguille_compteur004
+    4300104: Contoure_compteur004
+    4300106: Box016
+    4300108: Glossy - Black003
+    4300110: Cool White002
+    4300112: vitre
+    4300114: Tube007
+    4300116: Box015
+    4300118: Cylinder007
+    4300120: Box011
+    4300122: Objet001
+    4300124: Poignet_bouton
+    4300126: Poignet_bouton_socle
+    4300128: Haut
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

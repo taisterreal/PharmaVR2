@@ -1,0 +1,102 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.193236683)
+
+newmtl DefaultMaterial
+illum 1
+
+newmtl contoure gris
+kd 0.639216 0.639216 0.639216
+illum 1
+
+newmtl plastique vert
+kd 0 0.913726 0
+illum 1
+
+newmtl socle noir
+kd 0 0 0
+illum 1
+
+newmtl socle noir2
+kd 0 0 0
+illum 1
+
+newmtl plastique rouge
+kd 1 0 0
+illum 1
+
+newmtl contoure gris 2
+kd 0.639216 0.639216 0.639216
+illum 1
+
+newmtl Inox
+kd 0.588235 0.588235 0.588235
+illum 1
+
+newmtl noir
+kd 0 0 0
+illum 1
+
+newmtl button1
+kd 0.638268 0.638268 0.638268
+illum 1
+
+newmtl button4
+kd 0.8 0.000881372 0
+illum 1
+
+newmtl Tableau
+kd 0.178945 0.0446411 0.0376684
+illum 1
+
+newmtl button5
+kd 1 0.632197 0
+illum 1
+
+newmtl joystick
+kd 0 0 0
+illum 1
+
+newmtl Glossy - Black
+kd 0.160784 0.160784 0.160784
+illum 1
+
+newmtl Cool White
+kd 1 1 1
+illum 1
+
+newmtl socle noir3
+kd 0 0 0
+illum 1
+
+newmtl contoure gris 3
+kd 0.639216 0.639216 0.639216
+illum 1
+
+newmtl comptour
+kd 0 0 0
+illum 1
+
+newmtl aiguille
+kd 0 0 0
+illum 1
+
+newmtl vitre
+kd 1 1 1
+illum 1
+
+newmtl 02 - Default
+kd 0.396078 0.396078 0.396078
+illum 1
+
+newmtl 02 - Default1
+kd 0 0 0
+illum 1
+
+newmtl Bouton_chelou Slot _2
+kd 0 0 0
+illum 1
+
+newmtl plexi
+kd 0.588235 0.588235 0.588235
+illum 1
+
